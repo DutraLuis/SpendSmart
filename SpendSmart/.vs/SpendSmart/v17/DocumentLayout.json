@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\lipee\\source\\repos\\ASP.NET-MVC-8\\SpendSmart\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A3FCE066-0F6D-483D-BE47-0831B3F4EEFC}|SpendSmart.csproj|c:\\users\\lipee\\source\\repos\\asp.net-mvc-8\\spendsmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3FCE066-0F6D-483D-BE47-0831B3F4EEFC}|SpendSmart.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A3FCE066-0F6D-483D-BE47-0831B3F4EEFC}|SpendSmart.csproj|c:\\users\\lipee\\source\\repos\\asp.net-mvc-8\\spendsmart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A3FCE066-0F6D-483D-BE47-0831B3F4EEFC}|SpendSmart.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A3FCE066-0F6D-483D-BE47-0831B3F4EEFC}|SpendSmart.csproj|c:\\users\\lipee\\source\\repos\\asp.net-mvc-8\\spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A3FCE066-0F6D-483D-BE47-0831B3F4EEFC}|SpendSmart.csproj|solutionrelative:views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3FCE066-0F6D-483D-BE47-0831B3F4EEFC}|SpendSmart.csproj|c:\\users\\lipee\\source\\repos\\asp.net-mvc-8\\spendsmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3FCE066-0F6D-483D-BE47-0831B3F4EEFC}|SpendSmart.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3FCE066-0F6D-483D-BE47-0831B3F4EEFC}|SpendSmart.csproj|c:\\users\\lipee\\source\\repos\\asp.net-mvc-8\\spendsmart\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\ASP.NET-MVC-8\\SpendSmart\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Expenses.cshtml",
               "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\ASP.NET-MVC-8\\SpendSmart\\Views\\Home\\Expenses.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Expenses.cshtml",
@@ -73,20 +73,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\ASP.NET-MVC-8\\SpendSmart\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\lipee\\source\\repos\\ASP.NET-MVC-8\\SpendSmart\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-08T18:50:30.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\ASP.NET-MVC-8\\SpendSmart\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
