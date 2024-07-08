@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\lipee\\source\\repos\\ASP.NET-MVC-8\\SpendSmart\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A3FCE066-0F6D-483D-BE47-0831B3F4EEFC}|SpendSmart.csproj|c:\\users\\lipee\\source\\repos\\asp.net-mvc-8\\spendsmart\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FCE066-0F6D-483D-BE47-0831B3F4EEFC}|SpendSmart.csproj|solutionrelative:models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A3FCE066-0F6D-483D-BE47-0831B3F4EEFC}|SpendSmart.csproj|c:\\users\\lipee\\source\\repos\\asp.net-mvc-8\\spendsmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A3FCE066-0F6D-483D-BE47-0831B3F4EEFC}|SpendSmart.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\ASP.NET-MVC-8\\SpendSmart\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\lipee\\source\\repos\\ASP.NET-MVC-8\\SpendSmart\\Models\\Expense.cs",
+              "RelativeToolTip": "Models\\Expense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:57:42.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\ASP.NET-MVC-8\\SpendSmart\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\lipee\\source\\repos\\ASP.NET-MVC-8\\SpendSmart\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T18:49:25.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T18:49:25.78Z"
             }
           ]
         }
