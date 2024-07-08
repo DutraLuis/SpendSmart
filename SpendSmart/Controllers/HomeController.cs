@@ -54,18 +54,9 @@ namespace SpendSmart.Controllers
 
         public IActionResult CreateEditExpenseForm(Expense model)
         {
-            var expenseInDb = _context.Expenses.SingleOrDefault(expense => expense.Id == model.Id);
+            _context.Expenses.Add(model);
 
-            if (expenseInDb == null)
-            {
-                _context.Expenses.Add(model);
-
-                _context.SaveChanges();
-            }
-            else
-            {
-                throw new Exception("This Id Exists on Database, try a different Id!");
-            }
+            _context.SaveChanges();
 
             return RedirectToAction("Expenses");
         }
